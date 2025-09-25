@@ -1,0 +1,6 @@
+Nama: Kenzo
+Email: kenzo@kemendikbud.com
+Telepon: 083333333
+Umur: 120
+Alamat: Tyo
+Password: 44556677
