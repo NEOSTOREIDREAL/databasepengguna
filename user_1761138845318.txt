@@ -1,0 +1,5 @@
+Nama: Tes
+Email: kenzoaltakmsx@gmail.com
+Telepon: 08123456789
+Umur: 25
+Password: 12345678
